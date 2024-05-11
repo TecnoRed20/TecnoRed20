@@ -2,9 +2,9 @@
   <h2>Hi there <img src="./assets/wave.gif" width="30px"></h2>
   <ul>
   <li>🚀 Passion for technology</li>
-  <li>🎓 Software engineering student</li>
+  <li>🎓 Software engineering</li>
   <li>🌱 On a never-ending quest of learning</li>
-  <li>✍️  In my free time, I write code & manage projects.</li>
+  <li>✍️ In my free time, I write code & manage projects.</li>
   </ul>  
   <h2 style="margin-top:25px;">🛠 Tech Stack</h2>
   <img alt="Night Coding" src="./assets/night-coding.gif" align="right" width="280px"/>
