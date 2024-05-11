@@ -60,9 +60,9 @@
   <h2 style="margin-top:25px;">&#x1f4c8 GitHub Analytics</h2>
   
   <div align="center">
-  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TecnoRed20&count_private=true&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="TecnoRed20's Github Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=TecnoRed20&show_icons=true&line_height=25&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="TecnoRed20's Github Stats" />
 
-  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TecnoRed20&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" />
+  <img height="150px" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TecnoRed20&layout=compact&title_color=7A7ADB&text_color=D3D3D3&bg_color=0,000000,130F40" />
   </div>
 </div>
   
